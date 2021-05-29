@@ -1,6 +1,6 @@
 ## About This Repo
 
-This is a template for discord bot with disord.js
+This is a template for discord bot with discord.js
 
 ### This template includes
 
