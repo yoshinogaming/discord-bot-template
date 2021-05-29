@@ -32,7 +32,7 @@ Install the dependencies.
 
 ### Configuration
 
--   You have to change the bot token on [Config File](https://github.com/mangadi3859/discord-bot-template/data/config.json).
+-   You have to change the bot token on [Config File](https://github.com/mangadi3859/discord-bot-template/blob/main/data/config.json).
 
 ```json
 {
