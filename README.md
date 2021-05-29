@@ -41,7 +41,7 @@ Install the dependencies.
 }
 ```
 
-Note: Prefix cannot any contain spaces.
+Note: Prefix cannot contain any spaces.
 
 ### Usage
 
