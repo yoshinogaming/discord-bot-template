@@ -7,7 +7,7 @@ module.exports = async (bot) => {
     await bot.user.setActivity(presences[0].activity, { type: presences[0].type });
     var index = 1;
     if (!presences.length) return;
-    if (presences.length == 1) return bot.user.setActivity(presences[0].activity, { type: presences[0].type });
+    if (presences.length == 1) return;
     setInterval(() => {
         if (index > presences.length - 1) index = 0;
         bot.user.setActivity(presences[index].activity, { type: presences[index].type });
