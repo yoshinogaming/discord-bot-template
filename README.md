@@ -21,7 +21,7 @@ Clone this repository.
 ```
 
 ```bash
-> git cd discord-bot-template
+> cd discord-bot-template
 ```
 
 Install the dependencies.
