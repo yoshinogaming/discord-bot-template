@@ -1,0 +1,25 @@
+{
+    "name": "discord-bot-template",
+    "version": "1.0.0",
+    "description": "Template for your discord bot",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "keywords": [
+        "discord",
+        "bot"
+    ],
+    "author": "mangadi3859",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^12.5.3",
+        "humanize-duration": "^3.26.0",
+        "moment": "^2.29.1",
+        "node-fetch": "^2.6.1"
+    }
+}
