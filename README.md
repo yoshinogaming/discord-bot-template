@@ -1,6 +1,6 @@
 ## About This Repo
 
-This is a template for discord bot with disord.js
+This is a template for discord bot with discord.js
 
 ### This template includes
 
@@ -21,7 +21,7 @@ Clone this repository.
 ```
 
 ```bash
-> git cd discord-bot-template
+> cd discord-bot-template
 ```
 
 Install the dependencies.
@@ -32,7 +32,7 @@ Install the dependencies.
 
 ### Configuration
 
--   You have to change the bot token on [Config File](https://github.com/mangadi3859/discord-bot-template/data/config.json).
+-   You have to change the bot token on [Config File](https://github.com/mangadi3859/discord-bot-template/blob/main/data/config.json).
 
 ```json
 {
@@ -41,7 +41,7 @@ Install the dependencies.
 }
 ```
 
-Note: Prefix cannot any contain spaces.
+Note: Prefix cannot contain any spaces.
 
 ### Usage
 
