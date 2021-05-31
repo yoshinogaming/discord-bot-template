@@ -1,5 +1,4 @@
 const Discord = require("discord.js");
-const color = require("../database/color.json");
 
 module.exports.config = {
     name: "kick",
@@ -27,7 +26,7 @@ module.exports.run = (bot, msg, args) => {
         .setThumbnail(targetId.avatarURL())
         .setTimestamp()
         .setFooter(`Executed by ${author.tag}`)
-        .setColor(color.moderation)
+        .setColor("ORANGE")
         .setTitle("**Kick**")
         .setDescription("Someone has been kicked from this server")
         .addField("**Moderator**", `${member} | ${author.id}`, true)
