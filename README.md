@@ -45,16 +45,7 @@ Note: Prefix cannot contain any spaces.
 
 ### Usage
 
-You can use
+Double click the start.exe to run the bot :)
 
-```bash
-> npm start
-```
-
-or
-
-```bash
-> node index.js
-```
 
 # Have Fun!
