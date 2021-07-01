@@ -24,11 +24,7 @@ Clone this repository.
 > cd discord-bot-template
 ```
 
-Install the dependencies.
-
-```bash
-> npm install
-```
+Install the dependencies/Package by running the installer.exe!
 
 ### Configuration
 
